@@ -1,0 +1,24 @@
+@media screen and (max-width: 10000px) {
+
+}
+
+@media screen and (max-width: 1024px) {
+    .menu {
+        visibility: hidden;
+    }
+
+    .title {
+        margin-top: 35%;
+        font-size: 20px;
+    }
+    .description {
+        font-size: 14px;
+        padding-bottom: 5%;
+    }
+    #capabilities {
+        margin-top: 25%;
+    }
+    .block {
+        margin-top: 4%;
+    }
+}

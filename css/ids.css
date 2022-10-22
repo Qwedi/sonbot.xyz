@@ -1,0 +1,135 @@
+#btn {
+    color: #e1e1e1;
+    cursor: pointer;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    text-decoration: none;
+    transition: 0.50s;
+    font-size: 15px;
+}
+#btn:hover, #btn:focus {
+    outline: 0;
+    color: #4289C1;
+}
+#discord {
+    float: right;
+    color: #e1e1e1;
+    cursor: pointer;
+    text-decoration: none;
+    transition: 0.50s;
+    font-size: 120%;
+    margin-right: 0.1%;
+}
+#discord:hover, #discord:focus {
+    outline: 0;
+    color: #4289C1;
+}
+#github {
+    float: right;
+    color: #e1e1e1;
+    cursor: pointer;
+    text-decoration: none;
+    transition: 0.50s;
+    font-size: 120%;
+    margin-right: 0%;
+}
+#github:hover, #github:focus {
+    outline: 0;
+    color: #4289C1;
+}
+#login {
+    color: #e1e1e1;
+    background:#4289C1;
+    border: 3px solid #4289C1;
+    border-radius: 5px;
+    cursor: pointer;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    padding: .3em 1em;
+    outline: none;
+    text-decoration: none;
+    transition: 0.50s;
+    font-size: 95%;
+    margin-top: -0.3%;
+    float: right;
+    margin-right: 1%;
+}
+#login:hover, #login:focus {
+    background: none;
+    outline: 0;
+    color: rgb(20, 20, 20);
+    background: #e1e1e1;
+    border: 3px solid #e1e1e1;
+}
+#invite {
+    color: #ffffff;
+    background:#4289C1;
+    border: 2px solid #4289C1;
+    border-radius: 5px;
+    cursor: pointer;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    padding: .6em 1em;
+    outline: none;
+    text-decoration: none;
+    transition: 0.50s;
+    font-size: 95%;
+    margin-left: 5%;
+}
+#invite:hover, #invite:focus {
+    background: none;
+    outline: 0;
+    color: rgb(20, 20, 20);
+    background: #e1e1e1;
+    border: 2px solid #e1e1e1;
+}
+#premium {
+    color: #FFD700;
+    background: none;
+    border: 2px solid #FFD700;
+    border-radius: 5px;
+    cursor: pointer;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    padding: .6em 1em;
+    outline: none;
+    text-decoration: none;
+    transition: 0.50s;
+    font-size: 95%;
+    margin-left: 0.3%;
+}
+#premium:hover, #premium:focus {
+    background: none;
+    outline: 0;
+    color: rgb(20, 20, 20);
+    background: #FFD700;
+    border: 2px solid #FFD700;
+}
+#capabilities {
+    text-align:center!important;
+    margin-top: 12%;
+}
+#githubF {
+    color: #e1e1e1;
+    cursor: pointer;
+    text-decoration: none;
+    transition: 0.50s;
+    font-size: 120%;
+    margin-right: 0%;
+}
+#githubF:hover, #githubF:focus {
+    outline: 0;
+    color: #4289C1;
+}
+#discordF {
+    color: #e1e1e1;
+    cursor: pointer;
+    text-decoration: none;
+    transition: 0.50s;
+    font-size: 120%;
+    margin-right: 0%;
+}
+#discordF:hover, #discordF:focus {
+    outline: 0;
+    color: #4289C1;
+}

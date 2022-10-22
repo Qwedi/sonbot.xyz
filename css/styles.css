@@ -1,0 +1,42 @@
+@keyframes show {
+    from { opacity: 0; }
+    to { opacity: 1; }
+}
+
+html {
+    scroll-behavior: smooth;
+    height: 100%;
+}
+body {
+    margin: 0;
+    background-color: #202225;
+    animation: 2s show ease;
+}
+table {
+    position: fixed;
+    left: 0;
+    top: 0;
+}
+strong {
+    color: #6a87ec;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 800;
+    font-size: 18px;
+}
+.line {
+    background: #6a87ec;
+    background: #6a87ec;
+    width: 150px;
+    height: 5px;
+    margin: 0 auto;
+    border-radius: 10px;
+}
+.blue {
+    color: #6a87ec;
+}
+h4 {
+    color: #acacac;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 800;
+    font-size: 14px;
+}
